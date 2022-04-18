@@ -1,0 +1,41 @@
+
+
+
+/* Header/Logo Title */
+.myheader {
+  padding: 5px;
+  
+  background: palevioletred;
+  color: white;
+  font-size: 15px;
+  font: Arial;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+#form1{
+  padding-left: 30px;
+}
+form  { display: table;      }
+
+
+input { display: table-cell; }
+/* Page Content */
+.content {padding:10px;}
+
+.searchbutton {
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+  cursor: pointer;
+  position: relative;
+    left: 40px;
+	background-color: #FF1493;
+}
+p{
+text-indent: 2em;
+}
